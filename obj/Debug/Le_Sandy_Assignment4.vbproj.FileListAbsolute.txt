@@ -1,0 +1,12 @@
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\bin\Debug\Le_Sandy_Assignment4.exe.config
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\bin\Debug\Le_Sandy_Assignment4.exe
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\bin\Debug\Le_Sandy_Assignment4.pdb
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\bin\Debug\Le_Sandy_Assignment4.xml
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.vbprojAssemblyReference.cache
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.Sorter.resources
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.Resources.resources
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.vbproj.GenerateResource.cache
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.vbproj.CoreCompileInputs.cache
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.exe
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.xml
+C:\Users\Rain\source\repos\Le_Sandy_Assignment4\Le_Sandy_Assignment4\obj\Debug\Le_Sandy_Assignment4.pdb
