@@ -30,6 +30,7 @@ Partial Class Sorter
         Me.readNamesBtn = New System.Windows.Forms.Button()
         Me.rawLbl = New System.Windows.Forms.Label()
         Me.sortedLbl = New System.Windows.Forms.Label()
+        Me.contentAmountLbl = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'ascendingBtn
@@ -104,11 +105,21 @@ Partial Class Sorter
         Me.sortedLbl.TabIndex = 7
         Me.sortedLbl.Text = "Sorted Content"
         '
+        'contentAmountLbl
+        '
+        Me.contentAmountLbl.AutoSize = True
+        Me.contentAmountLbl.Location = New System.Drawing.Point(9, 595)
+        Me.contentAmountLbl.Name = "contentAmountLbl"
+        Me.contentAmountLbl.Size = New System.Drawing.Size(95, 13)
+        Me.contentAmountLbl.TabIndex = 8
+        Me.contentAmountLbl.Text = "Content Amount: 0"
+        '
         'Sorter
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(651, 620)
+        Me.Controls.Add(Me.contentAmountLbl)
         Me.Controls.Add(Me.sortedLbl)
         Me.Controls.Add(Me.rawLbl)
         Me.Controls.Add(Me.readNamesBtn)
@@ -132,4 +143,5 @@ Partial Class Sorter
     Friend WithEvents readNamesBtn As Button
     Friend WithEvents rawLbl As Label
     Friend WithEvents sortedLbl As Label
+    Friend WithEvents contentAmountLbl As Label
 End Class
