@@ -19,7 +19,7 @@
             namesLstBox.Items.Add(names)
             counter += 1
         End While
-
+        ' extra work: to display the name counter
         contentAmountLbl.Text = "Content Amount: " & counter
 
     End Sub
